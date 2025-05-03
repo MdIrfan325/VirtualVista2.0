@@ -31,7 +31,7 @@ cd ..
 npm run dev
 ```
 - This will start both the backend and frontend (if configured in your scripts).
-- By default, the app will be available at `http://localhost:3000` or the port specified in your config.
+- By default, the app will be available at `http://localhost:5000` or the port specified in your config.
 
 ### 4. Usage
 - Open your browser and go to `http://localhost:3000`.
